@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rover">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="rover.jar">
+      <element id="module-output" name="rover" />
+    </root>
+  </artifact>
+</component>
