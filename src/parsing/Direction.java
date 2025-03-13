@@ -1,3 +1,5 @@
+package parsing;
+
 public enum Direction {
     NORTH("N", new int[]{0, 1}),
     EAST("E", new int[]{1, 0}),

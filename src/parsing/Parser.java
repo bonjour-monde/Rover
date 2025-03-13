@@ -1,3 +1,8 @@
+package parsing;
+
+import exceptions.InvalidFileFormatException;
+import exceptions.OutOfBoundsException;
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
